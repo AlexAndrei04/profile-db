@@ -1,0 +1,22 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "image": "https://edteam-media.s3.amazonaws.com/courses/original/5eaaec0b-fa78-4f48-94b6-61b757e1f5fa.png",
+      "title": "React desde Cero",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "image": "https://edteam-media.s3.amazonaws.com/courses/original/273c3c75-c615-44ee-bade-e41530524ac8.png",
+      "title": "Que framework elegir",
+      "price": 0
+    },
+    {
+      "id": 3,
+      "image": "https://edteam-media.s3.amazonaws.com/courses/original/8b7ef439-b9bc-485f-9608-d82d0d1a7a2b.png",
+      "title": "Manejo del estado en React",
+      "price": 21
+    },
+  ]
+}
