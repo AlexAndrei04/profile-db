@@ -3,6 +3,7 @@
     {
       "id": 1,
       "company": "Derevo",
+      "curret": true,
       "description": "Developing web apps with AngularJS and developing standards of CSS with architecture y methodologies.",
       "title": "Frontend Mid.",
       "time": "2019 - Current"
@@ -10,6 +11,7 @@
     {
       "id": 2,
       "company": "Jalisco Goverment",
+      "curret": false,
       "description": "Develop with Drupal, making themes Bootstrap Framework, architecture SMACSS and ITCSS, accesibility web (W3C), Atomic Design methodology, OOCSS, using BEM nomenclature, debugging quality CSS, specificity, cross browser compatibility. Design the Jalisco Guidelines, using NPM, Webpack and Gulp for automate tasks. Development of a site with Angular. Analysis of Google Analytics of portals within Jalisco Network, implementation of metatags of Open Graph, Twitter Cards and microdata.",
       "title": "Frontend Jr.",
       "time": "2015 - 2019"
@@ -17,13 +19,15 @@
     {
       "id": 3,
       "company": "EDteam",
+      "curret": false,
       "description": "Site development at EDgrid using the same base library. Implementing technologies like NPM, Pug, Sass. Adding microdata and metadata by for SEO improvement. Work with Adobe XD for design the UX/UI components.",
-      "title": "Webmaste - Intership",
+      "title": "Web Designer - Intership",
       "time": "2017 - 2018"
     },
     {
       "id": 4,
       "company": "Universidad de Guadalajara",
+      "curret": false,
       "description": "Management of Drupal web site and its content, update content, maintenance and migration to new core version.",
       "title": "Webmaster",
       "time": "2013 - 2014"
